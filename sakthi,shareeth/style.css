@@ -1,0 +1,36 @@
+body {
+    box-sizing: border-box;
+}
+nav {
+    display: block;
+}
+.logo {
+    margin-top: 32px;
+    margin-left:51px;
+}
+
+.home { 
+    align-items: center;
+    font-weight: 400;
+    font-size: 12px;
+    width: 36px;
+    height: 15px;
+    margin-top: 43px;
+    margin-left: 415px;
+}
+
+.shop {
+    font-weight: 400;
+    font-size: 12px;
+    width: 34px;
+    height: 15px;
+    margin-left: 488px;
+}
+.abt{
+    font-weight: 400;
+    font-size: 12px;
+    width: 36px;
+    height: 15px;
+    margin-top: 43px;
+    margin-left: 415px;
+}

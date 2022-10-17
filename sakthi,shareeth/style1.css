@@ -1,0 +1,59 @@
+body {
+    box-sizing: border-box;
+}
+nav {
+    display: flex;
+}
+.logo {
+    margin-top: 32px;
+    margin-left:51px;
+    margin-right: 900px;
+}
+
+.home {
+    position: absolute;
+    width: 36px;
+    height: 15px;
+    left: 415px;
+    top: 43px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    text-decoration:none;
+    color:  #808080 ;
+}
+
+.shop, .abt, .cnt, .cart {
+    position: absolute;
+    width: 36px;
+    height: 15px;
+    top: 43px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    text-decoration:none;   
+    color:  #808080 ; 
+}
+
+.shop {
+    left: 488px;
+}
+
+.abt {
+    left: 560px;
+}
+
+.cnt {
+    left: 643px ;
+}
+
+.cart {
+    left: 754px;
+    line-height: 15px;
+}
+
+.cartt , .ct{
+    display: inline;
+    color:  #808080 ;
+    text-decoration: none;
+}
